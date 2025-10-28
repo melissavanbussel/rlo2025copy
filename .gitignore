@@ -4,3 +4,6 @@
 .httr-oauth
 .DS_Store
 .quarto
+rlo2025copy.Rcheck/
+rlo2025copy*.tar.gz
+rlo2025copy*.tgz
