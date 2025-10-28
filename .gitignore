@@ -8,3 +8,5 @@ rlo2025copy.Rcheck/
 rlo2025copy*.tar.gz
 rlo2025copy*.tgz
 docs
+inst/doc
+**/.quarto/
