@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.1.3
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-10-28T17:24Z
+urls:
+  reference: https://melissavanbussel.github.io/rlo2025copy/reference
+  article: https://melissavanbussel.github.io/rlo2025copy/articles
