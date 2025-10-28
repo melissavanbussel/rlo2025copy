@@ -1,4 +1,11 @@
 url: https://melissavanbussel.github.io/rlo2025copy/
 template:
   bootstrap: 5
-
+  bslib:
+    bootswatch: zephyr
+    primary: "#6E6295"
+    base_font: {google: "Outfit"}
+    code_font: {google: "Fira Code"}
+  light-switch: true
+  theme: atom-one-light
+  theme-dark: atom-one-dark
